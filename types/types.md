@@ -9,3 +9,4 @@
 7. Wurm
 8. Cockatrice
 9. Chromatic
+10. Metallic
