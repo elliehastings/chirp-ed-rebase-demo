@@ -12,3 +12,12 @@
 10. Metallic
 11. Pseudodragon
 12. Wyrm (it's totally different than Wurm)
+
+# Sizes of Dragons
+
+1. Teeny
+2. Small
+3. Medium
+4. Large
+5. Gigantic
+6. Galactic dragon carrying a planet on its back
