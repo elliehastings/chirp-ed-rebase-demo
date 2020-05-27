@@ -10,3 +10,5 @@
 8. Cockatrice
 9. Chromatic
 10. Metallic
+11. Pseudodragon
+12. Wyrm (it's totally different than Wurm)
